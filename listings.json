@@ -2,8 +2,23 @@
   {
     "listing": "/about.html",
     "items": [
+      "/about/AleaciaMessiah.html",
+      "/about/AnnaGooler.html",
+      "/about/CaitlinRowley.html",
+      "/about/AboutEmmaNarkewicz.html",
+      "/about/RyanODonnell.html",
+      "/about/GabrielKatz.html",
+      "/about/GayanUdugama.html",
+      "/about/GuanhuaTan.html",
+      "/about/KavyaHarlalka.html",
+      "/about/aboutkristin.html",
+      "/about/MatthewNorberg.html",
       "/about/ProfRolfe.html",
-      "/about/RosemaryPang.html"
+      "/about/MichaelaBowen.html",
+      "/about/RosemaryPang.html",
+      "/about/SarahMcAlpine.html",
+      "/about/TheresaSzczepanski.html",
+      "/about/About_cerowley.html"
     ]
   },
   {
@@ -16,7 +31,8 @@
       "/posts/challenge4_instructions.html",
       "/posts/challenge3_instructions.html",
       "/posts/challenge2_instructions.html",
-      "/posts/challenge1_instructions.html"
+      "/posts/challenge1_instructions.html",
+      "/posts/GayanUdugama_hw1.html"
     ]
   }
 ]
